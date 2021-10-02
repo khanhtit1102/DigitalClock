@@ -1,0 +1,26 @@
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\MainWindow.g.cs
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\App.g.cs
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\MainWindow.baml
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.g.resources
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.exe
+c:\users\nongvankhanh-pc\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.pdb
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.exe
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.pdb
+F:\Digital Clock\Clock\Clock\bin\Debug\Clock.exe
+F:\Digital Clock\Clock\Clock\bin\Debug\Clock.pdb
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+F:\Digital Clock\Clock\Clock\obj\Debug\MainWindow.g.cs
+F:\Digital Clock\Clock\Clock\obj\Debug\App.g.cs
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+F:\Digital Clock\Clock\Clock\obj\Debug\MainWindow.baml
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.g.resources
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+F:\Digital Clock\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
